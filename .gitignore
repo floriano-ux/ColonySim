@@ -1,0 +1,21 @@
+# Executável
+ColonySim
+colonia
+*.exe
+
+# Arquivos objeto
+*.o
+
+# Arquivos de save
+*.bin
+*.sav
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Build
+build/
